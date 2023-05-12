@@ -1,0 +1,97 @@
+
+.body{
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.boody{
+    position: relative;
+
+}
+.header{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    display: flex;
+    justify-content: space-between;
+    top: 0px;
+    position: sticky;
+    background-color: aliceblue;
+    margin-right: 0px;
+}
+.header-tag{
+    box-sizing: border-box;
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    margin-left: 15%;
+    text-decoration: none, solid;
+}
+.listbutton{
+    padding: 10px, 15px, 10px, 10px;
+    background-color: RGBA(0, 135, 219, 0.88);
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+    border: RGBA(0, 135, 219, 0.88);
+    color: white;
+}
+.forlogo{
+    margin-left: 5%;
+    width: 136px;
+    height: 50px;
+}
+.slaimage{
+    width: 136px;
+    height: 50px;
+}
+.nav{
+    width: 70%;
+    text-align: right;
+    margin-right: 5%;
+
+}
+a{
+    text-decoration: none solid black;
+    color: black;
+}
+.lists{
+    display: inline-block;
+    margin-top: 0.3em;
+    padding-right: 15px;
+
+    color: black;
+
+
+}
+listjoinnow{
+    background-color: lightskyblue;
+
+}
+.feature-on{
+    text-align: center;
+    
+    font-size: 18px;
+}
+.featuredlogo{
+    padding-top: 27px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.networks{
+    width: 94px;
+    height: 35px;
+    
+}
+.bestlife{
+    color: RGBA(0, 135, 219, 0.88);
+
+}
+.startbestlife{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 100px;
+}
